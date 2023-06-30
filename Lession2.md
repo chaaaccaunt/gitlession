@@ -1,6 +1,6 @@
 <link href="./assets/css/style.css" rel="stylesheet"></link>
 
-# Вторая домашняя работа в <br> "Введение в контроль версий"
+# Третья домашняя работа в <br> "Введение в контроль версий"
 
 <div class="logo">
   <img src="./assets/images/favicon.png" alt="favicon"/>
